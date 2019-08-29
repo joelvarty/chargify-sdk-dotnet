@@ -1,0 +1,9 @@
+/Users/joelvarty/Documents/Agility/Prod/Chargify-Access/chargify-sdk/bin/Debug/netstandard2.0/ChargifySDK.deps.json
+/Users/joelvarty/Documents/Agility/Prod/Chargify-Access/chargify-sdk/bin/Debug/netstandard2.0/ChargifySDK.dll
+/Users/joelvarty/Documents/Agility/Prod/Chargify-Access/chargify-sdk/bin/Debug/netstandard2.0/ChargifySDK.pdb
+/Users/joelvarty/Documents/Agility/Prod/Chargify-Access/chargify-sdk/obj/Debug/netstandard2.0/ChargifySDK.csprojAssemblyReference.cache
+/Users/joelvarty/Documents/Agility/Prod/Chargify-Access/chargify-sdk/obj/Debug/netstandard2.0/ChargifySDK.csproj.CoreCompileInputs.cache
+/Users/joelvarty/Documents/Agility/Prod/Chargify-Access/chargify-sdk/obj/Debug/netstandard2.0/ChargifySDK.AssemblyInfoInputs.cache
+/Users/joelvarty/Documents/Agility/Prod/Chargify-Access/chargify-sdk/obj/Debug/netstandard2.0/ChargifySDK.AssemblyInfo.cs
+/Users/joelvarty/Documents/Agility/Prod/Chargify-Access/chargify-sdk/obj/Debug/netstandard2.0/ChargifySDK.dll
+/Users/joelvarty/Documents/Agility/Prod/Chargify-Access/chargify-sdk/obj/Debug/netstandard2.0/ChargifySDK.pdb
